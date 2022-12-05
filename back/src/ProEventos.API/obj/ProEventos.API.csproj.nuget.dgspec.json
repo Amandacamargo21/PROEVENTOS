@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\amand\\OneDrive\\Documents\\PROEVENTOS\\back\\src\\ProEventos.API\\ProEventos.API.csproj": {}
+    "C:\\Users\\amand\\OneDrive\\Documents\\PROEVENTOS\\back\\src\\ProEventos.API\\ProEventos.API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\amand\\OneDrive\\Documents\\PROEVENTOS\\back\\src\\ProEventos.API\\ProEventos.API.csproj": {
+    "C:\\Users\\amand\\OneDrive\\Documents\\PROEVENTOS\\back\\src\\ProEventos.API\\ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\amand\\OneDrive\\Documents\\PROEVENTOS\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectUniqueName": "C:\\Users\\amand\\OneDrive\\Documents\\PROEVENTOS\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "c:\\Users\\amand\\OneDrive\\Documents\\PROEVENTOS\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectPath": "C:\\Users\\amand\\OneDrive\\Documents\\PROEVENTOS\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "packagesPath": "C:\\Users\\amand\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\amand\\OneDrive\\Documents\\PROEVENTOS\\back\\src\\ProEventos.API\\obj\\",
+        "outputPath": "C:\\Users\\amand\\OneDrive\\Documents\\PROEVENTOS\\back\\src\\ProEventos.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amand\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
