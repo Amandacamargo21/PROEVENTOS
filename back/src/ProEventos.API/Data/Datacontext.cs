@@ -7,9 +7,9 @@ using ProEventos.API.models;
 
 namespace ProEventos.API.Data
 {
-    public class Datacontext : DbContext
+    public class DataContext : DbContext
     {
-        public Datacontext(DbContextOptions<Datacontext> options) : base(options) { }
+        public DataContext(DbContextOptions<DataContext> options) : base(options) { }
         public DbSet<Evento> Eventos { get; set; }
     }
 }
